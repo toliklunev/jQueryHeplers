@@ -1,0 +1,28 @@
+{
+  "name": "jQueryHelpers",
+  "description": "Swiss knife for jQuery developers.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/codefucker/jQueryHeplers",
+  "author": {
+    "name": "Anatoly Lunev",
+    "email": "toliklunev@gmail.com",
+  	"homepage": "toliklunev.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codefucker/jQueryHeplers.git"
+  },
+  "bugs": "https://github.com/codefucker/jQueryHeplers/issues",
+  "license": {
+      "type": "MIT",
+      "url": "https://github.com/codefucker/jQueryHeplers/blob/master/LICENSE"
+   },
+  "dependencies": {
+    "jquery": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-uglify": "^0.5.0"
+  }
+}

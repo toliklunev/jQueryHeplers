@@ -1,0 +1,1323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"a",
+				"animate"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"se",
+				"set_width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"count",
+				"counter-increment"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"Pl",
+				"PlumbCondMedium"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"Plu",
+				"PlumbCond"
+			],
+			[
+				"data",
+				"dataObject"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"C",
+				"PlumbCondMedium"
+			],
+			[
+				"P",
+				"PlumbCond"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"PlumbCo",
+				"PlumbCondMedium"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"Con",
+				"PlumbCondMedium"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"frie",
+				"friends"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"opti",
+				"option"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"af",
+				"after"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"photo_",
+				"photo_popup"
+			],
+			[
+				"sli",
+				"slideToggle"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"place",
+				"Placemark"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"val",
+				"valid"
+			],
+			[
+				"ths",
+				"thanks"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"pos",
+				"pos-s	position: static;"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"make",
+				"makeActive"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"con",
+				"country"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"obj",
+				"Object"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"pla",
+				"placeholdered"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"sc",
+				"scroll	.scroll()"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"remo",
+				"removeAttr"
+			],
+			[
+				"sh",
+				"share"
+			],
+			[
+				"ha",
+				"hash"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"b",
+				"rgba()"
+			],
+			[
+				"firt",
+				"first-child"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"replace",
+				"replaceWith"
+			],
+			[
+				"las",
+				"last"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"margin",
+				"marginLeft"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wh",
+				"white-space"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"scrol",
+				"scrollTo"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"win",
+				"window_scroll"
+			],
+			[
+				"pro",
+				"project_year"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"zoo",
+				"zoomControl"
+			],
+			[
+				"txt",
+				"text-decoration"
+			],
+			[
+				"auth",
+				"auth-block"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"my",
+				"myriad_bold"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"margint",
+				"margin-top"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"texta",
+				"textarea"
+			],
+			[
+				"magin",
+				"margin-left"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"border-top-",
+				"border-top-color"
+			],
+			[
+				"list",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "jquery.helpers.js",
+			"settings":
+			{
+				"buffer_size": 8966,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 466,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/makeActive.js",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/cycle.js",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS - Expanded.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"expa",
+				"Hayaku: Expand abbreviation"
+			],
+			[
+				"emm",
+				"Toggle Comment"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"E",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"ty",
+				"Tidy CSS"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"T",
+				"Tidy CSS"
+			],
+			[
+				"Ty",
+				"Tidy HTML"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"bu",
+				"Snippet: background"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 315.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Grunt/README.md",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/LiveReload/README.md",
+		"/C/Users/Admin/GitHub/jQueryHeplers/node_modules/grunt-contrib-uglify/package.json",
+		"/C/Users/Admin/GitHub/jQueryHeplers/jquery.test.helpers.js",
+		"/C/Users/Admin/GitHub/jQueryHeplers/Gruntfile.js",
+		"/C/Users/Admin/Desktop/google_maps.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/test.loc/www/livestyle/style.css.map",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Installed Packages/SASS Build.sublime-package",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/med-tourism.loc/www/css/main.scss",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/land/index.html",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/med-tourism.loc/www/connectors/element/tv/template.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/med-tourism.loc/html/js/main.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/med-tourism.loc/html/css/main.scss",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/templates/cointerior/css/main.css",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Emmet/Preferences.sublime-settings",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Emmet/README.md",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Emmet/CONTRIBUTING.md",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Hayaku - tools for writing CSS faster/Default (Windows).sublime-keymap",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Vintage/README.TXT",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Emmet/Main.sublime-menu",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_5_1_private-profile.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_1_private.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_2_private-main.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_2_2_private-main.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_6_private-messlist.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_5_private-profile.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_4_private-wishlist.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_3_private-mess.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_3_1_private-mess-intranet.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/2_help.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/1_home.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/templates/cointerior/css/main.scss",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/templates/cointerior/js/jquery.parallax.min.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/helpers/jquery.helpers.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/oblik.loc/www/inc/header.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/oblik.loc/www/7_partners.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/library.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/www/templates/site/css/main.scss",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/inc/head.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/inc/header.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/inc/scripts.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/inc/footer_subscribe.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/inc/footer.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/empty.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_1_1_private-intranet.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/3_3_project.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/3_1_library.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/3_2_library_filer.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/5_assistants.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/templates/cointerior/js/script.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/sks.loc/lk/www/application/config/database.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/sks.loc/lk/www/install.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/www/templates/site/js/main.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/jselector.loc/master/source/jquery.jselector.js",
+		"/C/Users/Admin/Documents/GitHub/finalReject/src/reject.js",
+		"/C/Users/Admin/Documents/GitHub/jSelector/source/jquery.jselector.js",
+		"/C/Users/Admin/Documents/GitHub/rubberCarousel/README.md",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/test.loc/www/reject/js/reject.js",
+		"/C/Users/Admin/Desktop/1.svg",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/templates/cointerior/css/path.css",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/path.html",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/empty - копия.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/www/empty.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/www/1_home.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/jmodal.loc/www/jquery.jmodal.js",
+		"/C/Users/Admin/Dropbox/Python/uniquelines.py",
+		"/C/Users/Admin/Desktop/test.css",
+		"/C/Users/Admin/Desktop/test.scss",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Default.sublime-theme",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Widgets.stTheme",
+		"/C/Users/Admin/Dropbox/Python/uptaskseo.py",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/jselector.loc/master/source/jquery.jselector.scss",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/templates/cointerior/js/jquery.jselector.js",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/www/inc/head.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/www/inc/header.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/inc/header_private.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/mixpromo.loc/www/2_2_catalog_product_page.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/3_1_library_filer.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/3_library.php",
+		"/F/daria_hi_qual/additional/subs-rus.bat",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/fonts/pt_sans.css",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/rubber-carousel.loc/www/js/jquery.rubberCarousel.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_2_1_private-main-intranet.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_2_private-main-intranet.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_3_1_private-mess-desingers.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/evroservis.loc/www/fonts/pt_sans.css",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/tatami.loc/www/js/custom.js",
+		"/C/Users/Admin/Desktop/snowstorm.js",
+		"/C/Users/Admin/Desktop/miscellaneous_bindings",
+		"/C/Users/Admin/Desktop/script_.js.bak",
+		"/C/Users/Admin/Desktop/queryLoader.css",
+		"/C/Users/Admin/Desktop/messages_ru.js",
+		"/C/Users/Admin/Desktop/test.svg",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/www/4_1_LK_main.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/script.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/zwww/css/main.scss",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/cointerior.loc/zwww/post.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/post 2.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/1_home.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/main.tpl",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/main 2.tpl",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/fonts/plumb.css",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/main.scss",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/robots.txt",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/post.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Admin/Desktop/test.py",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/C/Users/Admin/Downloads/APIServerPHPClass/index.php",
+		"/C/Users/Admin/Downloads/APIServerPHPClass/vkapi.class.php",
+		"/C/Users/Admin/Dropbox/Работы/Python/21.py",
+		"/C/Users/Admin/Dropbox/Работы/Python/tjurjagja_bot.py",
+		"/C/Users/Admin/Dropbox/Работы/Python/vk.py",
+		"/C/Users/Admin/Dropbox/Работы/Python/uptaskseo.py",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-1/license.txt",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/mosoblstroi.loc/www/templates/site/js/script.js",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/marina.loc/old/services.html",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/bdu.loc/www/css/main.css",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/marina.loc/www/fonts/play.css",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/marina.loc/www/css/jquery.jselector.scss",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/template/www/index.php",
+		"/C/Users/Admin/Dropbox/OpenServer/domains/marina.loc/www/js/share42.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    ",
+			".form",
+			"placeholder",
+			"place",
+			"%cross",
+			"%btn",
+			"project_gallery",
+			"message",
+			"messages",
+			"profile_form",
+			"fieldset",
+			".columns",
+			"xht",
+			"XHTML",
+			"photo_gallery_popup",
+			"actions_carousel",
+			"rubb",
+			"group",
+			"add_block",
+			".form_slider",
+			"margin_block",
+			".form_slider",
+			";\n",
+			"margin_block",
+			"valid",
+			".project_view",
+			"-with",
+			"admin",
+			"enter.png",
+			".intranet",
+			"child_ico",
+			".container",
+			"checkbox",
+			"required",
+			".line",
+			"tprt_btn",
+			"ms ",
+			"li.active",
+			"@extend .ico;",
+			"animation",
+			"flash",
+			"switching_slider",
+			"like",
+			"up_",
+			"pro",
+			"solutions",
+			"blue_arr_btn",
+			"main",
+			"ma",
+			"rubberCarousel({",
+			"rubberCa",
+			"messages_list",
+			"attractive",
+			"layers",
+			"layer",
+			"@extend .btn;",
+			"@extend .btn",
+			".btn",
+			"btn",
+			"project_item",
+			".projects_list",
+			".chosen_projects",
+			"project_view",
+			".chosen_projects",
+			"apartment_layout",
+			".switching_slider",
+			"family",
+			"#project",
+			".mous",
+			"mousem",
+			"mousel",
+			"mousee",
+			"mouse",
+			".switching_slider",
+			"project_s",
+			".switching_slider",
+			"genCount",
+			"insertCount",
+			"isCorr",
+			"form",
+			".btn{",
+			"validate",
+			"valid",
+			"form",
+			"white_fb_ico",
+			"ribbon",
+			"assistants",
+			".assistant",
+			"class=\"watch\"",
+			"chosen_projects",
+			"<div class=\"project_completion\">\n							<p>Нам нужно всего</p>\n							<p class=\"days\"><span>14</span> дней,</p>\n							<p>чтобы выполнить проект</p>\n						</div>",
+			"project_completion",
+			"main_menu",
+			"children",
+			"bedroom",
+			"floor",
+			"apartment_layout",
+			"linked",
+			"Поддерживаются только",
+			"Поддерживаются только следующие форматы",
+			"preload",
+			"radiobutton",
+			"radio",
+			"preload",
+			"project_stages",
+			"apartment_layout",
+			"js-dasabled",
+			"class",
+			"filter",
+			"number_of_rooms",
+			"form",
+			"radiobutton",
+			";\n",
+			"how_this_work",
+			"supplier",
+			"blue_btn",
+			"disabled",
+			"change",
+			"class=\"cl\"",
+			"тип",
+			"switching_slider",
+			"flash",
+			"project_completion ",
+			".conta",
+			"conta",
+			".internal_menu",
+			".container",
+			".subscribe"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"	",
+			"@extend %ico;",
+			"<div class=\"project_completion\">\n							<p>Нам нужно всего</p>\n							<p class=\"days\"><span>14</span> д<ins data-ending='[14, \"ень\", \"ня\", \"ней\"]'></ins>,</p>\n							<p>чтобы выполнить проект</p>\n						</div>",
+			"lounge",
+			"ceiling",
+			".originalEvent.wheelDelta",
+			" ",
+			"big-pic",
+			"<td data-year=\"2013\" data-tag=\"wsr\">\n								<div class=\"border\"><div></div></div>\n								<a href=\"uploads/events/1m.jpg\"><img src=\"uploads/events/1pre.jpg\" alt=\"\" /></a>\n								<div class=\"descr\">\n									<p>World Skills Russia прошёл в Тольятти нахуй</p>\n								</div>\n							</td>",
+			"<td data-year=\"2013\" data-tag=\"rdw\">\n								<div class=\"border\"><div></div></div>\n								<a href=\"uploads/events/7m.jpg\"><img src=\"uploads/events/7pre.jpg\" alt=\"\" /></a>\n								<div class=\"descr\">\n									<p>\"Да похуй мне на этот дизайн\"</p>\n								</div>\n							</td>",
+			"<td data-year=\"2013\" data-tag=\"wsr\">\n								<div class=\"border\"><div></div></div>\n								<a href=\"uploads/events/6m.jpg\"><img src=\"uploads/events/6pre.jpg\" alt=\"\" /></a>\n								<div class=\"descr\">\n									<p>Толян круто жонглирует</p>\n								</div>\n							</td>",
+			"<td data-year=\"2012\" data-tag=\"ny2012\">\n								<div class=\"border\"><div></div></div>\n								<a href=\"uploads/events/5m.jpg\"><img src=\"uploads/events/5pre.jpg\" alt=\"\" /></a>\n								<div class=\"descr\">\n									<p>Все в сборе</p>\n								</div>\n							</td>",
+			"<td data-year=\"2012\" data-tag=\"ny2012\">\n								<div class=\"border\"><div></div></div>\n								<a href=\"uploads/events/4m.jpg\"><img src=\"uploads/events/4pre.jpg\" alt=\"\" /></a>\n								<div class=\"descr\">\n									<p>Ебашим в футбик</p>\n								</div>\n							</td>",
+			"<td data-year=\"2011\" data-tag=\"bowling\">\n								<div class=\"border\"><div></div></div>\n								<a href=\"uploads/events/3m.jpg\"><img src=\"uploads/events/3pre.jpg\" alt=\"\" /></a>\n								<div class=\"descr\">\n									<p>Отмечаем день рождение студии, хуяча в боулинг</p>\n								</div>\n							</td>",
+			"<td data-year=\"2012\" data-tag=\"ny2012\">\n								<div class=\"border\"><div></div></div>\n								<a href=\"uploads/events/2m.jpg\"><img src=\"uploads/events/2pre.jpg\" alt=\"\" /></a>\n								<div class=\"descr\">\n									<p>Отмечаем новый год</p>\n								</div>\n							</td>",
+			"<td data-year=\"2013\" data-tag=\"wsr\">\n								<div class=\"border\"><div></div></div>\n								<a href=\"uploads/events/1m.jpg\"><img src=\"uploads/events/1pre.jpg\" alt=\"\" /></a>\n								<div class=\"descr\">\n									<p>World Skills Russia прошёл в Тольятти нахуй</p>\n								</div>\n							</td>",
+			"holders_prop",
+			"holders_left",
+			"holders_top",
+			"holders_rows",
+			"holders_cols",
+			"<a href=\"uploads/events/\\1m.jpg\">",
+			"<img src=\"uploads/events/\\1pre.jpg\" alt=\"\" />",
+			"<img src=\"uploads/events/\\1.jpg\" alt=\"\" />",
+			"$window",
+			"/templates/bstd/images/",
+			"images",
+			"»",
+			"«",
+			"$red",
+			"<br />",
+			"include",
+			"	",
+			"\\1{",
+			"hotel-booking",
+			"	",
+			"<\\1 class=\"\\2\">",
+			"помещений",
+			"\\t",
+			";",
+			"bright-carousel",
+			"vocabulary",
+			"<div class=\"unit syringe_volume\">\n																<span>шприц</span>\n															</div>",
+			"<div class=\"unit flacon_volume\">\n																<span>флакон</span>\n															</div>",
+			" +7",
+			"+7 (499)",
+			"meso.php",
+			"<li><a href=\"optima.php\">OPTIMA MESOTHERAPY</a></li>",
+			"<li><a href=\"mdinnovation.php\">Meso MD innovation</a></li>",
+			"<li><a href=\"renova.php\">ReNOVA</a></li>",
+			"quantity",
+			"vab quantity",
+			"quantity",
+			"<li><a href=\"aurelli.php\">Aurelli</a></li>",
+			"<a href=\"recommendations.php\">Рекомендации для покупателей</a>",
+			"<a href=\"partners.php\"><span>Партнёры</span></a>",
+			"black-label",
+			"7966B",
+			"7966",
+			"						<div class=\"contacts\">\n							<a href=\"#\" class=\"callback\">\n								<img src=\"images/ico/call.png\" alt=\"\" />\n								<span>Заказать звонок</span>\n							</a>\n							<a href=\"mailto:tatami@mail.ru\">\n								<img src=\"images/ico/mail.png\" alt=\"\" />\n								<span>tatami@mail.ru</span>\n							</a>\n							<a href=\"#\">\n								<img src=\"images/ico/geo.png\" alt=\"\" />\n								<span>Где купить</span>\n							</a>\n						</div>",
+			"<div id=\"header\">\n					<div class=\"search\">\n						<form action=\"\" method=\"post\">\n							<input type=\"text\" name=\"\"/>\n							<label class=\"selector\">\n								<span></span>\n								<select>\n									<option>Все категории</option>\n									<option>Не все категории</option>\n								</select>\n							</label>\n							<button>Искать</button>\n						</form>\n					</div>\n					<div class=\"login\">\n						<a href=\"#\" class=\"in\">Вход</a>\n						<a href=\"#\" class=\"reg\">Регистрация</a>\n						<div class=\"form popup hidden\">\n							<form action=\"\" method=\"post\">\n								<div class=\"block\">\n									<span>Логин</span>\n									<input type=\"text\" name=\"login\"/>\n								</div>\n								<div class=\"block\">\n									<span>Пароль</span>\n									<input type=\"password\" name=\"password\"/>\n								</div>\n								<div class=\"block\">\n									<label class=\"checkbox\">\n										<input type=\"checkbox\" checked/>\n										<span class=\"input\"></span>\n										<span>Запомнить меня</span>\n									</label>\n								</div>\n								<div class=\"block\">\n									<button>Вход</button>\n								</div>\n								<div class=\"block\">\n									<a href=\"#\" class=\"fleft\">Забли пароль?</a>\n									<a href=\"#\" class=\"fright\">Забли логин?</a>\n								</div>\n							</form>\n						</div>\n					</div>\n					<div class=\"c\"></div>\n					<div class=\"info\">\n						<div class=\"logo\">\n							<a href=\"/\">\n								<img src=\"images/logo.png\" alt=\"\" />\n							</a>\n						</div>\n						<div class=\"contacts\">\n							<a href=\"#\">\n								<img src=\"images/ico/call.png\" alt=\"\" />\n								<span>Заказать звонок</span>\n							</a>\n							<a href=\"mailto:tatami@mail.ru\">\n								<img src=\"images/ico/mail.png\" alt=\"\" />\n								<span>tatami@mail.ru</span>\n							</a>\n							<a href=\"#\">\n								<img src=\"images/ico/geo.png\" alt=\"\" />\n								<span>Где купить</span>\n							</a>\n						</div>\n						<div class=\"consult\">\n							<a href=\"#\" class=\"link\"><img src=\"images/face.png\" alt=\"\" /></a>\n							<div class=\"wrap\">\n								<p>Онлайн-консультант</p>\n								<a href=\"#\" class=\"link\">Светлакова Марина</a>\n								<span>сайчас на связи, задайте вопрос!</span>\n							</div>\n							<div class=\"popup hidden\">\n								<table>\n									<tr>\n										<td>Телефон:</td>\n										<td>(495) 256 89 63</td>\n									</tr>\n									<tr>\n										<td>ICQ:</td>\n										<td>589 786 523</td>\n									</tr>\n									<tr>\n										<td>E-mail:</td>\n										<td><a href=\"mailto:tatami@mail.ru\">tatami@mail.ru</a></td>\n									</tr>	\n								</table>\n							</div>\n						</div>\n						<div>\n							<p class=\"phone\">(495)<span>670-40-56</span></p>\n							<div class=\"cart\">\n								<a href=\"#\"></a>\n								<p>\n									<span class=\"count\">3</span>\n									<span>товара (<span class=\"cost\">15600</span> р.)</span>\n								</p>\n							</div>\n						</div>\n					</div>\n					<div class=\"c\"></div>\n				</div>",
+			"#FFF;",
+			"	",
+			"transition",
+			"left:",
+			"<script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js\"></script>",
+			"предыдущая",
+			"<div class=\"tabs\">\n								<a href=\"#\">Категории</a>\n								<a href=\"#\" class=\"active\">Бренды</a>\n							</div>",
+			"<div class=\"tabs\">\n								<a href=\"#\" class=\"active\">Категории</a>\n								<a href=\"#\">Бренды</a>\n							</div>",
+			"<a href=\"#\" class=\"active\">Категории</a>\n								<a href=\"#\">Бренды</a>\n							<div>\n								<p>Skype:</p>\n								<a href=\"callto:dvapeskarya\">dvapeskarya</a>\n							</div>\n						</div>\n					</div>",
+			"<div>\n						<div class=\"contact\">\n							<img src=\"images/ico/phone.png\" alt=\"\" />\n							<div>\n								<p>Телефон:</p>\n								<span class=\"phone\">+7 (8452) 22-33-22</span>\n							</div>\n						</div>\n						<div class=\"contact\">\n							<img src=\"images/ico/skype.png\" alt=\"\" />\n							<div>\n								<p>Skype:</p>\n								<a href=\"callto:dvapeskarya\">dvapeskarya</a>\n							</div>\n						</div>\n					</div>",
+			"<script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.scrollTo-1.4.2-min.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.serialScroll-1.2.2-min.js\"></script>\n		<script type=\"text/javascript\" src=\"js/custom.js\"></script>",
+			"<button type=\"submit\" class=\"orange-gr\"><img src=\"images/ico/loupe.png\" alt=\"\" /></button>",
+			"<!--[if lte IE 8]><link rel=\"stylesheet\" href=\"css/ie.css\" media=\"all\"/><![endif]-->",
+			"<!--[if lte IE 8]><link rel=\"stylesheet\" href=\"css/ie8.css\" media=\"all\"/><![endif]-->",
+			"tabs",
+			"oh",
+			"F33",
+			" ",
+			"$pureviewer.",
+			"",
+			"<script type=\"text/javascript\" src=\"js/jquery.min.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery-ui-1.8.21.custom.min.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.mousewheel-3.0.4.pack.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.scrollTo-1.4.2-min.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.purepopup.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.pureviewer.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.pureslider.js\"></script>\n		<script type=\"text/javascript\" src=\"js/custom.js\"></script>",
+			"		<script type=\"text/javascript\" src=\"js/jquery.min.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery-ui-1.8.21.custom.min.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.mousewheel-3.0.4.pack.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.scrollTo-1.4.2-min.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.purepopup.js\"></script>\n		<script type=\"text/javascript\" src=\"js/jquery.pureviewer.js\"></script>\n		<script type=\"text/javascript\" src=\"js/custom.js\"></script>",
+			"",
+			"<input type=\"text\" name=\"phone\" class=\"border-box ph-phone\"/>",
+			"<input type=\"text\" name=\"name\" class=\"border-box ph-name\"/>",
+			"<input type=\"text\" name=\"name\" class=\"border-box name\"/>",
+			"<p><a href=\"#\">← Вернуться назад</a></p>",
+			"<h2><a href=\"#\">Архив новостей</a></h2>",
+			"<h2><a href=\"#\">О кипре</a></h2>",
+			"bathroom-property",
+			"bedroom-property",
+			"dimension-property",
+			".action-block",
+			".objects ",
+			".objects",
+			"",
+			"aux",
+			"<button type=\"submit\"><img src=\"images/ico/draw.png\" alt=\"\" />Оставить заявку</button>",
+			"<button class=\"button\" type=\"submit\"><img src=\"images/ico/draw.png\" alt=\"\" />Оставить заявку</button>",
+			"h5>\n						<a href=\"main.html\">\n							<img src=\"images/logo.png\" alt=\"\" />\n							<span>недвижимость<br />на кипре</span>\n						</a>\n					</div>",
+			"h5\n						<a href=\"main.html\">\n							<img src=\"images/logo.png\" alt=\"\" />\n							<span>недвижимость<br />на кипре</span>\n						</a>\n					</div>",
+			"<div class=\"logo fleft\">\n						<a href=\"main.html\">\n							<img src=\"images/logo.png\" alt=\"\" />\n							<span>недвижимость<br />на кипре</span>\n						</a>\n					</div>",
+			"<script type=\"text/javascript\" src=\"js/jquery.min.js\"></script>",
+			"<div class=\"fright info\">",
+			"<span>Другая Компания</span>",
+			".list",
+			" ",
+			"form-element",
+			"",
+			"th",
+			"ns",
+			".actions-slider",
+			"'",
+			"#services",
+			"<div class=\"item\">",
+			"",
+			".sli",
+			"td",
+			"#header",
+			"F00",
+			"section"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "jquery.helpers.js",
+					"settings":
+					{
+						"buffer_size": 8966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								466
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/makeActive.js",
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/cycle.js",
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.340729166668,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 368.0
+	},
+	"replace":
+	{
+		"height": 590.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"emm",
+				"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
