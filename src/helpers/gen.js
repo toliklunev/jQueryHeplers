@@ -1,5 +1,5 @@
 // Генерирует нужное колличество элементов 
-genCount: function(code, count){
+genHtml: function(code, count){
 	var $items = $([]);
 
 	while(count--){
@@ -15,7 +15,7 @@ insertCount: function(method, code, count){
 		throw new Error('method mast be append or prepend');
 	}
 
-	return this[method](jQuery.genCount(code, count));
+	return this[method](jQuery.genHtml(code, count));
 },
 
 appendCount: function(code, count){
