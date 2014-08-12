@@ -1,0 +1,33 @@
+.clear {
+  cursor: pointer;
+  font-size: 0;
+  line-height: 0;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  right: 4px;
+  top: 6px; }
+  .clear:before, .clear:after {
+    -webkit-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    transform-origin: 0 0;
+    border-left: 2px solid;
+    height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    content: ''; }
+  .clear:before {
+    -webkit-transform: rotate(-45deg) translate(-50%, -50%);
+    -moz-transform: rotate(-45deg) translate(-50%, -50%);
+    -ms-transform: rotate(-45deg) translate(-50%, -50%);
+    -o-transform: rotate(-45deg) translate(-50%, -50%);
+    transform: rotate(-45deg) translate(-50%, -50%); }
+  .clear:after {
+    -webkit-transform: rotate(45deg) translate(-50%, -50%);
+    -moz-transform: rotate(45deg) translate(-50%, -50%);
+    -ms-transform: rotate(45deg) translate(-50%, -50%);
+    -o-transform: rotate(45deg) translate(-50%, -50%);
+    transform: rotate(45deg) translate(-50%, -50%); }

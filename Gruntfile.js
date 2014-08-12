@@ -36,6 +36,26 @@ module.exports = function(grunt) {
 				},
 				src: ['src/support/*.js'],
 				dest: 'build/jquery.support.js'
+			},
+
+			css: {
+				options: {
+					// banner: '<%= banner %>'
+				},
+				src: ['src/helpers/*.scss'],
+				dest: 'build/jquery.support.scss'
+			}
+		},
+
+		sass: {
+			dist: {
+				options: {
+					style: 'expanded'
+				},
+
+				files: {
+					'build/jquery.support.css': 'build/jquery.support.scss'
+				}
 			}
 		},
 
@@ -55,6 +75,7 @@ module.exports = function(grunt) {
 
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
+	grunt.loadNpmTasks('grunt-contrib-sass');
 
-	grunt.registerTask('default', ['concat', 'uglify']);
+	grunt.registerTask('default', ['concat', 'uglify', 'sass']);
 };

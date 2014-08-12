@@ -1,0 +1,47 @@
+@mixin prefixes($property, $str){
+	#{-webkit-}#{$property}: #{$str};
+	   #{-moz-}#{$property}: #{$str};
+	    #{-ms-}#{$property}: #{$str};
+	     #{-o-}#{$property}: #{$str};
+	           #{$property}: #{$str};
+}
+
+@mixin transform($str...){
+	@include prefixes('transform', $str);
+}
+
+@mixin transform-origin($str...){
+	@include prefixes('transform-origin', $str);
+}
+
+.clear{
+	cursor: pointer;
+
+	font-size: 0;
+	line-height: 0;
+
+	width: 14px;
+	height: 14px;
+
+	position: absolute;
+	right: 4px;
+	top: 6px;
+
+	&:before, &:after{
+		@include transform-origin(0 0);
+		border-left: 2px solid;
+		height: 100%;
+		position: absolute;
+		top: 50%; 
+		left: 50%;
+		content: '';
+	}
+
+	&:before{
+		@include transform(rotate(-45deg) translate(-50%, -50%));
+	}
+
+	&:after{
+		@include transform(rotate(45deg) translate(-50%, -50%));
+	}
+}
