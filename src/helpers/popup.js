@@ -1,4 +1,4 @@
-/* Попап */
+// Попап 
 popup: function(options){
 
 	var $popup = this;

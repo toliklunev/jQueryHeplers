@@ -1,4 +1,4 @@
-/* Крестик удаления текста из инпута */
+// Крестик удаления текста из инпута 
 cleaner: function(){
 	return this.each(function(){
 		var $input = $(this);

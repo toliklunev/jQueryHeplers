@@ -3,7 +3,7 @@
  * Licensed under the MIT License */
 
 jQuery.fn.extend({
-/* Возвращает/назначает аттрибут src */
+// Возвращает/назначает аттрибут src 
 src: function(src){
 	if(src !== undefined){
 		return this.attr('src', src);
@@ -14,7 +14,7 @@ src: function(src){
 	}
 },
 
-/* Возвращает/назначает аттрибут href */
+// Возвращает/назначает аттрибут href 
 href: function(href){
 	if(href !== undefined){
 		return this.attr('href', href);
@@ -25,7 +25,7 @@ href: function(href){
 	}
 },
 
-/* Возвращает/назначает аттрибут hash у ссылки */
+// Возвращает/назначает аттрибут hash у ссылки 
 hash: function(hash){
 	var href = this.href().split('#');
 
@@ -50,7 +50,7 @@ pathname: function(pathname){
 		return href[0];
 	}
 },
-/* Разбивка числа по разрядам */
+// Разбивка числа по разрядам 
 breakdown: function(num, seporator){
 
 	var seporator = seporator || ' ';
@@ -72,7 +72,7 @@ breakdown: function(num, seporator){
 		return make();
 	}
 },
-/* Крестик удаления текста из инпута */
+// Крестик удаления текста из инпута 
 cleaner: function(){
 	return this.each(function(){
 		var $input = $(this);
@@ -98,7 +98,7 @@ cleaner: function(){
 		$input.trigger('cleaner');
 	});
 },
-/* Циклический next prev */
+// Циклический next prev 
 cycle: function(nav, selector){
 	if(this.is(':only-child')){
 		return this;
@@ -120,7 +120,7 @@ cycle: function(nav, selector){
 		return this.prev(selector);
 	}
 },
-/* Возвращает объект, который задан в data- */
+// Возвращает объект, который задан в data- 
 dataObject: function(data){
 
 	var object = this.data(data);
@@ -131,7 +131,7 @@ dataObject: function(data){
 
 	return object;
 },
-/* Включение / отключение элемента */
+// Включение / отключение элемента 
 disable: function(){
 	return this.addClass('disabled').attr('disabled', true);
 },
@@ -139,7 +139,7 @@ disable: function(){
 enable: function(){
 	return this.removeClass('disabled').attr('disabled', false);
 },
-/* Хелпер для форматирования окончаний */
+// Хелпер для форматирования окончаний 
 ending: function(amount, ending1, ending2, ending3){
 	var ending = ending3;
 	var remain100 = amount % 100;
@@ -162,7 +162,7 @@ ending: function(amount, ending1, ending2, ending3){
 
 	return ending;
 },
-/* Генерирует нужное колличество элементов */
+// Генерирует нужное колличество элементов 
 genCount: function(code, count){
 	var $items = $([]);
 
@@ -173,7 +173,7 @@ genCount: function(code, count){
 	return $items;
 },
 
-/* Вставляет определённое количество элементов */
+// Вставляет определённое количество элементов 
 insertCount: function(method, code, count){
 	if(method !== 'append' && method !== 'prepend'){
 		throw new Error('method mast be append or prepend');
@@ -189,7 +189,7 @@ appendCount: function(code, count){
 prependCount: function(code, count){
 	return this.insertCount('prepend', code, count);
 },
-/* Назначает элементу определённый класс, у соседних элементов убирает этот класс */
+// Назначает элементу определённый класс, у соседних элементов убирает этот класс 
 makeActive: function(arg){
 
 	options = {
@@ -213,7 +213,7 @@ makeActive: function(arg){
 	});
 
 },
-/* Делает возможным ввод только цифр */
+// Делает возможным ввод только цифр 
 onlyDigits: function(){
 	return this.each(function(){
 		$(this).keypress(function(e){
@@ -221,7 +221,7 @@ onlyDigits: function(){
 		});
 	});
 },
-/* Парсит строку, возвращает число */
+// Парсит строку, возвращает число 
 parseInt: function(arg1, arg2){
 	if(typeof this == 'object'){
 		var text = this.text() || this.val();
@@ -267,7 +267,7 @@ parseFloat: function(str){
 
 	return false;
 },
-/* Попап */
+// Попап 
 popup: function(options){
 
 	var $popup = this;
@@ -306,7 +306,7 @@ popup: function(options){
 
 	return this;
 },
-/* Удаление пробелов и текста между элементами, применяется для решения проблемм с инлайн блоками */
+// Удаление пробелов и текста между элементами, применяется для решения проблемм с инлайн блоками 
 removeSpaces: function(recursively){
 	return this.each(function(){
 		$(this).contents().filter(function(){
@@ -314,7 +314,7 @@ removeSpaces: function(recursively){
 		}).remove();
 	});
 },
-/* Разворачивает порядок следования jQuery объектов */
+// Разворачивает порядок следования jQuery объектов 
 reverse: function(){
 	return $(this.toArray().reverse());
 },
@@ -353,7 +353,7 @@ transmit: function(method, args){
 	return function(){that[method].apply(that, args)};
 	// return $.proxy(this, method);
 },
-/* Обновляет текущую выборку */
+// Обновляет текущую выборку 
 update: function(){
 	return $(this.selector.replace(/.filter\((.*)\)/gi, '$1'), this.context);
 }

@@ -1,4 +1,4 @@
-/* Разбивка числа по разрядам */
+// Разбивка числа по разрядам 
 breakdown: function(num, seporator){
 
 	var seporator = seporator || ' ';

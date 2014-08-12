@@ -1,4 +1,4 @@
-/* Возвращает/назначает аттрибут src */
+// Возвращает/назначает аттрибут src 
 src: function(src){
 	if(src !== undefined){
 		return this.attr('src', src);
@@ -9,7 +9,7 @@ src: function(src){
 	}
 },
 
-/* Возвращает/назначает аттрибут href */
+// Возвращает/назначает аттрибут href 
 href: function(href){
 	if(href !== undefined){
 		return this.attr('href', href);
@@ -20,7 +20,7 @@ href: function(href){
 	}
 },
 
-/* Возвращает/назначает аттрибут hash у ссылки */
+// Возвращает/назначает аттрибут hash у ссылки 
 hash: function(hash){
 	var href = this.href().split('#');
 

@@ -1,4 +1,4 @@
-/* Включение / отключение элемента */
+// Включение / отключение элемента 
 disable: function(){
 	return this.addClass('disabled').attr('disabled', true);
 },

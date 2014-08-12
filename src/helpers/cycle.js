@@ -1,4 +1,4 @@
-/* Циклический next prev */
+// Циклический next prev 
 cycle: function(nav, selector){
 	if(this.is(':only-child')){
 		return this;

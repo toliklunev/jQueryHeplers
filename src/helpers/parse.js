@@ -1,4 +1,4 @@
-/* Парсит строку, возвращает число */
+// Парсит строку, возвращает число 
 parseInt: function(arg1, arg2){
 	if(typeof this == 'object'){
 		var text = this.text() || this.val();

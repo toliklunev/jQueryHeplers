@@ -1,4 +1,4 @@
-/* Генерирует нужное колличество элементов */
+// Генерирует нужное колличество элементов 
 genCount: function(code, count){
 	var $items = $([]);
 
@@ -9,7 +9,7 @@ genCount: function(code, count){
 	return $items;
 },
 
-/* Вставляет определённое количество элементов */
+// Вставляет определённое количество элементов 
 insertCount: function(method, code, count){
 	if(method !== 'append' && method !== 'prepend'){
 		throw new Error('method mast be append or prepend');

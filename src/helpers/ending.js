@@ -1,4 +1,4 @@
-/* Хелпер для форматирования окончаний */
+// Хелпер для форматирования окончаний 
 ending: function(amount, ending1, ending2, ending3){
 	var ending = ending3;
 	var remain100 = amount % 100;

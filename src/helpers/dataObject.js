@@ -1,4 +1,4 @@
-/* Возвращает объект, который задан в data- */
+// Возвращает объект, который задан в data- 
 dataObject: function(data){
 
 	var object = this.data(data);

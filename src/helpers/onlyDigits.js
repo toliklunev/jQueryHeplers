@@ -1,4 +1,4 @@
-/* Делает возможным ввод только цифр */
+// Делает возможным ввод только цифр 
 onlyDigits: function(){
 	return this.each(function(){
 		$(this).keypress(function(e){
